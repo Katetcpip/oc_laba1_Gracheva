@@ -1,0 +1,13 @@
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\bin\Debug\netcoreapp3.1\oc_laba1_Gracheva.exe
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\bin\Debug\netcoreapp3.1\oc_laba1_Gracheva.deps.json
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\bin\Debug\netcoreapp3.1\oc_laba1_Gracheva.runtimeconfig.json
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\bin\Debug\netcoreapp3.1\oc_laba1_Gracheva.runtimeconfig.dev.json
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\bin\Debug\netcoreapp3.1\oc_laba1_Gracheva.dll
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\bin\Debug\netcoreapp3.1\oc_laba1_Gracheva.pdb
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\obj\Debug\netcoreapp3.1\oc_laba1_Gracheva.csprojAssemblyReference.cache
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\obj\Debug\netcoreapp3.1\oc_laba1_Gracheva.AssemblyInfoInputs.cache
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\obj\Debug\netcoreapp3.1\oc_laba1_Gracheva.AssemblyInfo.cs
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\obj\Debug\netcoreapp3.1\oc_laba1_Gracheva.csproj.CoreCompileInputs.cache
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\obj\Debug\netcoreapp3.1\oc_laba1_Gracheva.dll
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\obj\Debug\netcoreapp3.1\oc_laba1_Gracheva.pdb
+C:\Users\katet\source\repos\oc_laba1_Gracheva\oc_laba1_Gracheva\obj\Debug\netcoreapp3.1\oc_laba1_Gracheva.genruntimeconfig.cache
